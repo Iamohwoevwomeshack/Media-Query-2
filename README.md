@@ -1,2 +1,1 @@
-# Media-Query-2
-Assignment
+https://iamohwoevwomeshack.github.io/Media-Query-2/
